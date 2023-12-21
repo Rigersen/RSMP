@@ -3,11 +3,13 @@
 # Briefing
 O RSMP (Rigersen Survival Multiplayer) é um servidor de Minecraft Vanilla, ultima versão hospedado por Rigersen no servidor Ditadura. Periodicamente, o servidor estará disponível para acesso, sendo anunciado  se está ABERTO ou FECHADO no chat ⁠#rsmp  Em ocasiões especiais, como aniversários, eventos ou datas comemorativas, será marcado um dia para que todos possam participar.
 
-# Objetivos
+# Calls no Discord
+Caso o numero de jogadores seja muito alto como 10, pode haver um CAOS no call, então sera melhor que nos separemos por tarefas ou localidades entre as calls, por exemplo, quem saiu pra minerar ou explorar fica em uma call, e quem está construindo/cuidando das plantações ou animais em outra.
 
+# Objetivos
 Cada um pode ter seu proprio proposito como adquirir minerios, construir farms, monumentos etc, 
 porém para termos uma motivação maior pra nos manter jogando, proponho que nos tambem buscamos adquirir as conquistas 
-que o jogo chama de "Progressos", eles podem ser acessados apertando a tecla padrão "L". Eles são divididos nas categorias: <br>
+que o jogo chama de "Progressos", eles podem ser acessados apertando a tecla padrão "L". Estão divididos em categorias: <br>
 
 ## Minecraft 
 Conquistas do overworld como: <br>
