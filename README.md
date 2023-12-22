@@ -1,9 +1,8 @@
 # RSMP (Rigersen Survival Multiplayer)
-Tipo: Vanilla (Sem mods)<br>
-Versão: Mais Recente Oficial (NÃO é Snapshot)
+RSMP (Rigersen Survival Multiplayer) é um servidor de Minecraft Vanilla, na versão mais recente pra jogar Minecraft com meus amigos, nossos objetivos são pegar todas as conquistas.
 
 # Calls no Discord
-Caso o numero de jogadores seja muito alto como 10, pode haver um CAOS no call, então sera melhor que nos separemos por tarefas ou localidades entre as calls, por exemplo, quem saiu pra minerar ou explorar fica em uma call, e quem está construindo/cuidando das plantações ou animais em outra.
+Caso o numero de jogadores online seja muito alto, pode haver um CAOS no call, então sera melhor nos separemos por tarefas ou localidades, por exemplo, quem saiu pra minerar ou explorar fica em uma call, e quem está construindo/cuidando das plantações e animais em outra.
 
 # Objetivos
 Cada um pode ter seu proprio proposito como adquirir minerios, construir farms, monumentos etc, 
