@@ -657,6 +657,7 @@
       "minecraft:pillager": "2024-01-10 18:24:32 -0300",
       "minecraft:skeleton": "2024-01-08 21:39:58 -0300",
       "minecraft:silverfish": "2024-01-08 21:35:17 -0300",
+      "minecraft:enderman": "2024-01-11 16:24:30 -0300",
       "minecraft:spider": "2024-01-08 23:55:25 -0300",
       "minecraft:zombie": "2024-01-08 21:28:17 -0300",
       "minecraft:creeper": "2024-01-08 21:29:15 -0300",
@@ -1390,6 +1391,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-01-10 18:34:34 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-01-10 18:34:34 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2024-01-10 18:59:57 -0300"
@@ -1408,15 +1421,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "has_gunpowder": "2024-01-10 18:34:34 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2024-01-10 18:34:34 -0300"
+      "has_azure_bluet": "2024-01-11 15:47:57 -0300"
     },
     "done": true
   },
