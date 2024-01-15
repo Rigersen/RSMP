@@ -12,7 +12,10 @@
       "minecraft:old_growth_pine_taiga": "2024-01-09 00:05:20 -0300",
       "minecraft:forest": "2024-01-08 21:54:12 -0300",
       "minecraft:taiga": "2024-01-08 23:48:13 -0300",
+      "minecraft:deep_cold_ocean": "2024-01-14 19:34:21 -0300",
+      "minecraft:frozen_ocean": "2024-01-14 19:34:58 -0300",
       "minecraft:desert": "2024-01-11 15:46:50 -0300",
+      "minecraft:deep_frozen_ocean": "2024-01-14 19:39:09 -0300",
       "minecraft:jungle": "2024-01-09 00:20:23 -0300",
       "minecraft:cherry_grove": "2024-01-08 21:05:22 -0300",
       "minecraft:sunflower_plains": "2024-01-08 22:09:53 -0300",
@@ -478,6 +481,7 @@
       "minecraft:pillager": "2024-01-10 22:13:47 -0300",
       "minecraft:skeleton": "2024-01-08 21:40:47 -0300",
       "minecraft:silverfish": "2024-01-14 01:44:51 -0300",
+      "minecraft:enderman": "2024-01-14 20:17:10 -0300",
       "minecraft:magma_cube": "2024-01-13 00:41:10 -0300",
       "minecraft:spider": "2024-01-08 21:34:39 -0300",
       "minecraft:zombie": "2024-01-08 21:33:28 -0300",
@@ -3810,9 +3814,13 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:basalt_deltas": "2024-01-12 22:58:01 -0300"
+      "minecraft:crimson_forest": "2024-01-15 01:17:53 -0300",
+      "minecraft:nether_wastes": "2024-01-14 19:07:23 -0300",
+      "minecraft:soul_sand_valley": "2024-01-14 19:05:51 -0300",
+      "minecraft:basalt_deltas": "2024-01-12 22:58:01 -0300",
+      "minecraft:warped_forest": "2024-01-15 01:11:07 -0300"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
@@ -4402,19 +4410,31 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-01-14 14:23:22 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
     "criteria": {
       "has_lapis_ore": "2024-01-14 14:25:30 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather": {
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
     "criteria": {
-      "has_rabbit_hide": "2024-01-14 15:09:14 -0300"
+      "has_lapis_ore": "2024-01-14 14:25:30 -0300"
     },
     "done": true
   },
   "minecraft:recipes/misc/gold_ingot_from_blasting_gold_ore": {
+    "criteria": {
+      "has_gold_ore": "2024-01-14 14:29:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
     "criteria": {
       "has_gold_ore": "2024-01-14 14:29:31 -0300"
     },
@@ -4432,9 +4452,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_gold_ore": {
+  "minecraft:recipes/misc/leather": {
     "criteria": {
-      "has_gold_ore": "2024-01-14 14:29:31 -0300"
+      "has_rabbit_hide": "2024-01-14 15:09:14 -0300"
     },
     "done": true
   },
@@ -4456,15 +4476,135 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
     "criteria": {
-      "has_copper_ore": "2024-01-14 14:23:22 -0300"
+      "has_deepslate_redstone_ore": "2024-01-14 16:36:02 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
     "criteria": {
-      "has_lapis_ore": "2024-01-14 14:25:30 -0300"
+      "has_deepslate_redstone_ore": "2024-01-14 16:36:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-01-14 16:36:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2024-01-14 16:36:31 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2024-01-14 17:33:45 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-01-14 19:59:21 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_bed": {
+    "criteria": {
+      "has_purple_wool": "2024-01-14 20:02:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_carpet": {
+    "criteria": {
+      "has_purple_wool": "2024-01-14 20:02:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_banner": {
+    "criteria": {
+      "has_purple_wool": "2024-01-14 20:02:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2024-01-14 20:02:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2024-01-14 20:02:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2024-01-14 20:02:38 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-01-15 00:48:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2024-01-14 22:48:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2024-01-14 22:48:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2024-01-14 22:48:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2024-01-14 22:48:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-01-14 22:56:10 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-01-14 22:02:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-01-14 22:03:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-01-14 22:03:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2024-01-15 01:42:09 -0300"
     },
     "done": true
   },
