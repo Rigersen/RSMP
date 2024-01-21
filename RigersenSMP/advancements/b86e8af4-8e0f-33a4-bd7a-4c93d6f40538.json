@@ -1018,12 +1018,13 @@
       "minecraft:blaze": "2024-01-15 22:45:19 -0300",
       "minecraft:skeleton": "2024-01-11 14:24:34 -0300",
       "minecraft:zombified_piglin": "2024-01-15 22:45:45 -0300",
+      "minecraft:witch": "2024-01-14 17:24:07 -0300",
+      "minecraft:wither_skeleton": "2024-01-16 00:16:45 -0300",
+      "minecraft:piglin": "2024-01-21 15:06:26 -0300",
       "minecraft:silverfish": "2024-01-11 14:51:55 -0300",
       "minecraft:enderman": "2024-01-14 02:53:58 -0300",
       "minecraft:magma_cube": "2024-01-15 00:02:59 -0300",
-      "minecraft:witch": "2024-01-14 17:24:07 -0300",
       "minecraft:spider": "2024-01-11 14:46:36 -0300",
-      "minecraft:wither_skeleton": "2024-01-16 00:16:45 -0300",
       "minecraft:zombie": "2024-01-11 14:33:56 -0300",
       "minecraft:creeper": "2024-01-08 21:46:56 -0300",
       "minecraft:wither": "2024-01-21 01:47:52 -0300"
@@ -2936,9 +2937,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2024-01-21 01:31:04 -0300"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-01-21 01:46:50 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-01-21 01:46:50 -0300"
     },
     "done": true
   },
@@ -2948,15 +2961,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_ice": {
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
-      "has_packed_ice": "2024-01-21 01:31:04 -0300"
+      "has_gold_block": "2024-01-21 16:09:40 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "minecraft:recipes/misc/diamond": {
     "criteria": {
-      "has_wither_skeleton_skull": "2024-01-21 01:46:50 -0300"
+      "has_diamond_block": "2024-01-21 16:10:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2024-01-21 16:09:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-01-21 16:08:37 -0300"
     },
     "done": true
   },
