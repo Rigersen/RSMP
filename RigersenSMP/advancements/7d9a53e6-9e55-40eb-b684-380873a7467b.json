@@ -5094,15 +5094,23 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+  "minecraft:husbandry/complete_catalogue": {
     "criteria": {
-      "has_deepslate_gold_ore": "2024-01-20 18:49:24 -0300"
+      "minecraft:calico": "2024-01-20 18:40:09 -0300",
+      "minecraft:british_shorthair": "2024-01-20 22:11:46 -0300",
+      "minecraft:red": "2024-01-20 16:20:06 -0300"
     },
-    "done": true
+    "done": false
   },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2024-01-20 18:41:19 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2024-01-20 18:49:24 -0300"
     },
     "done": true
   },
@@ -5112,12 +5120,17 @@
     },
     "done": true
   },
-  "minecraft:husbandry/complete_catalogue": {
+  "minecraft:nether/summon_wither": {
     "criteria": {
-      "minecraft:calico": "2024-01-20 18:40:09 -0300",
-      "minecraft:red": "2024-01-20 16:20:06 -0300"
+      "summoned": "2024-01-21 01:46:55 -0300"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-01-21 01:47:53 -0300"
+    },
+    "done": true
   },
   "DataVersion": 3700
 }
