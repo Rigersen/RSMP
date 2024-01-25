@@ -188,6 +188,7 @@
       "cooked_chicken": "2024-01-11 13:37:05 -0300",
       "potato": "2024-01-11 21:06:59 -0300",
       "cod": "2024-01-20 16:22:17 -0300",
+      "cooked_salmon": "2024-01-24 23:57:03 -0300",
       "carrot": "2024-01-10 22:52:26 -0300"
     },
     "done": false
@@ -5145,15 +5146,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_copper": {
-    "criteria": {
-      "has_raw_copper_block": "2024-01-23 00:50:24 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2024-01-23 00:49:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_copper": {
+    "criteria": {
+      "has_raw_copper_block": "2024-01-23 00:50:24 -0300"
     },
     "done": true
   },
