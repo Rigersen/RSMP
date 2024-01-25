@@ -5100,6 +5100,7 @@
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:calico": "2024-01-20 18:40:09 -0300",
+      "minecraft:ragdoll": "2024-01-25 15:15:58 -0300",
       "minecraft:british_shorthair": "2024-01-20 22:11:46 -0300",
       "minecraft:red": "2024-01-20 16:20:06 -0300"
     },
@@ -5156,6 +5157,24 @@
   "minecraft:recipes/misc/raw_copper": {
     "criteria": {
       "has_raw_copper_block": "2024-01-23 00:50:24 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-01-25 15:29:17 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_the_recipe": "2024-01-25 15:25:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2024-01-25 15:29:17 -0300"
     },
     "done": true
   },
