@@ -5380,18 +5380,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brick_wall": {
-    "criteria": {
-      "has_bricks": "2024-02-02 15:30:23 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_stairs": {
-    "criteria": {
-      "has_bricks": "2024-02-02 15:30:23 -0300"
-    },
-    "done": true
-  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2024-02-02 13:34:21 -0300"
@@ -5401,6 +5389,18 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-02-02 14:45:01 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2024-02-02 15:30:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2024-02-02 15:30:23 -0300"
     },
     "done": true
   },
