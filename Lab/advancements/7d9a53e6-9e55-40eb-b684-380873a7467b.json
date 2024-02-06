@@ -2417,5 +2417,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2024-02-04 23:16:54 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }

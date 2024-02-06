@@ -3245,57 +3245,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/popped_chorus_fruit": {
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
-      "has_chorus_fruit": "2024-02-01 23:03:48 -0300"
+      "has_rose_bush": "2024-02-01 22:06:16 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+  "minecraft:end/root": {
     "criteria": {
-      "has_end_stone_brick": "2024-02-01 23:21:07 -0300"
+      "entered_end": "2024-02-01 22:40:02 -0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+  "minecraft:story/enter_the_end": {
     "criteria": {
-      "has_end_stone_bricks": "2024-02-01 23:21:07 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purpur_slab": {
-    "criteria": {
-      "has_purpur_block": "2024-02-01 23:22:14 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2024-02-01 23:21:07 -0300"
+      "entered_end": "2024-02-01 22:40:02 -0300"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2024-02-01 22:43:12 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
-    "criteria": {
-      "has_end_stone_brick": "2024-02-01 23:21:07 -0300"
-    },
-    "done": true
-  },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2024-02-01 23:07:29 -0300"
-    },
-    "done": true
-  },
-  "minecraft:end/enter_end_gateway": {
-    "criteria": {
-      "entered_end_gateway": "2024-02-01 22:44:16 -0300"
     },
     "done": true
   },
@@ -3311,9 +3281,81 @@
     },
     "done": true
   },
-  "minecraft:end/elytra": {
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
-      "elytra": "2024-02-01 23:27:22 -0300"
+      "has_end_stone": "2024-02-01 22:43:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2024-02-01 22:43:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-02-01 22:44:16 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-02-01 23:03:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2024-02-01 23:07:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-02-01 23:09:49 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-02-01 23:21:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-02-01 23:21:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-02-01 23:21:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2024-02-01 23:21:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-02-01 23:21:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2024-02-01 23:21:07 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2024-02-01 23:22:14 -0300"
     },
     "done": true
   },
@@ -3329,51 +3371,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_rose_bush": {
-    "criteria": {
-      "has_rose_bush": "2024-02-01 22:06:16 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
-    "criteria": {
-      "has_end_stone_bricks": "2024-02-01 23:21:07 -0300"
-    },
-    "done": true
-  },
-  "minecraft:end/root": {
-    "criteria": {
-      "entered_end": "2024-02-01 22:40:02 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_stone_brick_wall": {
-    "criteria": {
-      "has_end_stone_bricks": "2024-02-01 23:21:07 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2024-02-01 23:22:14 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-02-01 22:43:12 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2024-02-01 22:43:12 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/shulker_box": {
-    "criteria": {
-      "has_shulker_shell": "2024-02-01 23:09:49 -0300"
     },
     "done": true
   },
@@ -3383,15 +3383,189 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2024-02-01 22:40:02 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2024-02-01 23:22:14 -0300"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2024-02-01 23:27:22 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-02-05 20:41:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-02-05 21:49:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-02-05 22:08:25 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-02-05 22:45:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-02-05 22:43:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-02-05 22:44:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2024-02-05 21:49:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-02-05 22:44:09 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2024-02-05 21:49:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-02-05 21:49:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-02-05 21:49:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2024-02-05 21:49:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2024-02-05 22:51:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2024-02-05 21:49:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-02-06 00:14:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2024-02-05 21:49:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2024-02-05 22:52:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-02-05 23:45:57 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-02-05 23:27:08 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_deepslate_redstone_ore": {
+    "criteria": {
+      "has_deepslate_redstone_ore": "2024-02-05 22:52:52 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-02-05 22:45:12 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_smelting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-02-05 22:49:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-02-05 20:41:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2024-02-05 21:49:26 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_from_blasting_redstone_ore": {
+    "criteria": {
+      "has_redstone_ore": "2024-02-05 22:49:51 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-02-05 20:41:29 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-02-06 00:14:46 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_deepslate_iron_ore": {
+    "criteria": {
+      "has_deepslate_iron_ore": "2024-02-05 22:51:13 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-02-05 22:43:55 -0300"
     },
     "done": true
   },
