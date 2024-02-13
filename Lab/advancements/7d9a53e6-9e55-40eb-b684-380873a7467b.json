@@ -2423,5 +2423,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2024-02-13 10:09:59 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3700
 }
