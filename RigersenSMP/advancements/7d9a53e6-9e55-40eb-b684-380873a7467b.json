@@ -5879,5 +5879,17 @@
     },
     "done": true
   },
+  "minecraft:husbandry/wax_off": {
+    "criteria": {
+      "wax_off": "2024-06-22 12:31:58 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/wax_on": {
+    "criteria": {
+      "wax_on": "2024-06-22 12:31:24 -0300"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
