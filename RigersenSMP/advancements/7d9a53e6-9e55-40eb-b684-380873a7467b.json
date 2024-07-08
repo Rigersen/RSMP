@@ -190,6 +190,7 @@
       "bread": "2024-01-08 21:10:59 -0300",
       "golden_apple": "2024-01-26 20:56:35 -0300",
       "cooked_mutton": "2024-01-08 22:04:54 -0300",
+      "sweet_berries": "2024-07-08 11:32:46 -0300",
       "cooked_beef": "2024-01-08 22:02:37 -0300",
       "chorus_fruit": "2024-02-01 23:23:50 -0300",
       "baked_potato": "2024-01-10 19:56:00 -0300",
@@ -6308,15 +6309,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2024-07-08 10:43:15 -0300"
-    },
-    "done": true
-  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2024-07-08 10:25:41 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-07-08 10:43:15 -0300"
     },
     "done": true
   },
