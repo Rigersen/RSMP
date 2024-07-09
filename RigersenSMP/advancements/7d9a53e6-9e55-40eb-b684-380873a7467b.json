@@ -20,6 +20,7 @@
       "minecraft:frozen_river": "2024-02-08 20:08:45 -0300",
       "minecraft:deep_frozen_ocean": "2024-01-14 19:39:09 -0300",
       "minecraft:jungle": "2024-01-09 00:20:23 -0300",
+      "minecraft:ocean": "2024-07-08 21:30:18 -0300",
       "minecraft:cherry_grove": "2024-01-08 21:05:22 -0300",
       "minecraft:sunflower_plains": "2024-01-08 22:09:53 -0300",
       "minecraft:birch_forest": "2024-01-11 14:34:00 -0300",
@@ -6318,6 +6319,18 @@
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2024-07-08 10:43:15 -0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2024-07-08 20:23:00 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-07-08 20:23:07 -0300"
     },
     "done": true
   },
