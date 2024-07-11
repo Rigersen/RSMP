@@ -6340,5 +6340,11 @@
     },
     "done": true
   },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:pale": "2024-07-11 13:29:18 -0300"
+    },
+    "done": false
+  },
   "DataVersion": 3953
 }
