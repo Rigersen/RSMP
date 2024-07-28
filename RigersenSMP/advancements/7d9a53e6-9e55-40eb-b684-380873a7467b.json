@@ -19,6 +19,7 @@
       "minecraft:desert": "2024-01-11 15:46:50 -0300",
       "minecraft:frozen_river": "2024-02-08 20:08:45 -0300",
       "minecraft:deep_frozen_ocean": "2024-01-14 19:39:09 -0300",
+      "minecraft:windswept_forest": "2024-07-28 08:19:38 -0300",
       "minecraft:jungle": "2024-01-09 00:20:23 -0300",
       "minecraft:ocean": "2024-07-08 21:30:18 -0300",
       "minecraft:cherry_grove": "2024-01-08 21:05:22 -0300",
@@ -6585,6 +6586,12 @@
   "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
     "criteria": {
       "has_red_nether_bricks": "2024-07-21 13:30:44 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2024-07-28 08:19:37 -0300"
     },
     "done": true
   },
