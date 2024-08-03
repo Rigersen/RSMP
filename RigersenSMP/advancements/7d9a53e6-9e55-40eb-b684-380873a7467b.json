@@ -523,6 +523,7 @@
       "minecraft:zombie": "2024-01-08 21:33:28 -0300",
       "minecraft:creeper": "2024-01-08 21:36:54 -0300",
       "minecraft:drowned": "2024-01-14 15:14:50 -0300",
+      "minecraft:wither": "2024-08-03 13:30:41 -0300",
       "minecraft:zombie_villager": "2024-01-08 22:19:08 -0300",
       "minecraft:slime": "2024-01-08 21:42:01 -0300"
     },
@@ -6622,6 +6623,12 @@
   "minecraft:recipes/redstone/crafter": {
     "criteria": {
       "has_dropper": "2024-08-01 13:24:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-08-03 13:29:54 -0300"
     },
     "done": true
   },
