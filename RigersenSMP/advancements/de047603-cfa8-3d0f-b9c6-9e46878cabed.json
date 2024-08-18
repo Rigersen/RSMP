@@ -844,6 +844,7 @@
       "minecraft:vex": "2024-07-21 14:25:02 -0300",
       "minecraft:zombie": "2024-01-08 23:06:08 -0300",
       "minecraft:creeper": "2024-01-09 01:47:25 -0300",
+      "minecraft:wither": "2024-08-18 15:08:22 -0300",
       "minecraft:slime": "2024-07-15 20:09:03 -0300",
       "minecraft:evoker": "2024-07-21 14:13:10 -0300"
     },
@@ -4550,6 +4551,66 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-08-11 16:32:48 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-08-18 12:38:55 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-08-18 14:37:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2024-08-18 13:33:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2024-08-18 12:43:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2024-08-18 12:43:02 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2024-08-18 14:08:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2024-08-18 13:33:32 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-08-18 14:37:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-08-18 15:08:23 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-08-18 13:33:32 -0300"
     },
     "done": true
   },
